@@ -1,0 +1,8 @@
+# required by dev-java/oracle-jdk-bin (argument)
+>=dev-java/oracle-jdk-bin-1.8.0.74 Oracle-BCLA-JavaSE
+# required by www-client/google-chrome (argument)
+>=www-client/google-chrome-48.0.2564.116_p1 google-chrome
+# required by skype (argument)
+>=net-im/skype-4.3.0.37-r6 skype-4.0.0.7-copyright
+# required by adobe-flash (argument)
+>=www-plugins/adobe-flash-11.2.202.569 AdobeFlash-11.x

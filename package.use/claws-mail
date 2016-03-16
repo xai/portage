@@ -1,0 +1,4 @@
+# required by dev-libs/libindicate-12.10.1-r2::gentoo[gtk]
+# required by mail-client/claws-mail-3.13.2::gentoo[notification,libindicate]
+# required by claws-mail (argument)
+>=dev-libs/libdbusmenu-12.10.2-r2 gtk3
