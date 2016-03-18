@@ -1,0 +1,823 @@
+# required by dev-qt/qtgui-4.8.7::gentoo[tiff]
+# required by dev-qt/qtcore-4.8.7-r1::gentoo[qt3support]
+# required by dev-qt/qtsql-4.8.7-r1::gentoo
+# required by dev-qt/qt3support-4.8.7::gentoo
+>=media-libs/tiff-4.0.6 abi_x86_32
+# required by x11-libs/libXtst-1.2.2::gentoo
+# required by media-sound/pulseaudio-8.0::gentoo[X]
+# required by media-plugins/alsa-plugins-1.1.0::gentoo[pulseaudio]
+>=x11-proto/recordproto-1.14.2-r1 abi_x86_32
+# required by sys-apps/systemd-229::gentoo[lz4]
+# required by sys-apps/util-linux-2.27.1::gentoo[systemd,-build]
+# required by x11-libs/libSM-1.2.2-r1::gentoo[uuid]
+# required by media-sound/pulseaudio-8.0::gentoo[X]
+# required by media-plugins/alsa-plugins-1.1.0::gentoo[pulseaudio]
+>=app-arch/lz4-0_p131 abi_x86_32
+# required by dev-libs/nettle-3.2::gentoo[gmp]
+# required by net-libs/gnutls-3.3.22::gentoo
+# required by net-print/cups-2.1.3-r1::gentoo[ssl]
+# required by dev-qt/qtgui-4.8.7::gentoo[cups]
+# required by dev-qt/qtcore-4.8.7-r1::gentoo[qt3support]
+# required by dev-qt/qtsql-4.8.7-r1::gentoo
+# required by dev-qt/qt3support-4.8.7::gentoo
+>=dev-libs/gmp-6.1.0 abi_x86_32
+# required by x11-libs/libX11-1.6.3::gentoo
+# required by x11-libs/libXi-1.7.6::gentoo
+# required by dev-qt/qtgui-4.8.7::gentoo
+# required by dev-qt/qtcore-4.8.7-r1::gentoo[qt3support]
+# required by dev-qt/qtsql-4.8.7-r1::gentoo
+# required by dev-qt/qt3support-4.8.7::gentoo
+>=x11-proto/kbproto-1.0.7 abi_x86_32
+# required by dev-qt/qtwebkit-4.8.7::gentoo[gstreamer]
+# required by net-im/skype-4.3.0.37-r6::gentoo
+# required by skype (argument)
+>=media-libs/gst-plugins-base-0.10.36-r2:0.10 abi_x86_32
+# required by media-libs/gst-plugins-base-0.10.36-r2::gentoo[orc]
+# required by dev-qt/qtwebkit-4.8.7::gentoo[gstreamer]
+# required by net-im/skype-4.3.0.37-r6::gentoo
+# required by skype (argument)
+>=dev-lang/orc-0.4.25 abi_x86_32
+# required by net-print/cups-2.1.3-r1::gentoo[dbus]
+# required by dev-qt/qtgui-4.8.7::gentoo[cups]
+# required by dev-qt/qtcore-4.8.7-r1::gentoo[qt3support]
+# required by dev-qt/qtsql-4.8.7-r1::gentoo
+# required by dev-qt/qt3support-4.8.7::gentoo
+>=sys-apps/dbus-1.10.8 abi_x86_32
+# required by dev-qt/qtgui-4.8.7::gentoo
+# required by dev-qt/qtcore-4.8.7-r1::gentoo[qt3support]
+# required by dev-qt/qtsql-4.8.7-r1::gentoo
+# required by dev-qt/qt3support-4.8.7::gentoo
+>=x11-libs/libXrandr-1.5.0 abi_x86_32
+# required by x11-libs/libXext-1.3.3::gentoo
+# required by x11-libs/libXi-1.7.6::gentoo
+# required by dev-qt/qtgui-4.8.7::gentoo
+# required by dev-qt/qtcore-4.8.7-r1::gentoo[qt3support]
+# required by dev-qt/qtsql-4.8.7-r1::gentoo
+# required by dev-qt/qt3support-4.8.7::gentoo
+>=x11-proto/xextproto-7.3.0 abi_x86_32
+# required by sys-libs/gpm-1.20.7-r2::gentoo
+# required by app-editors/vim-7.4.1342::gentoo[gpm]
+# required by @selected
+# required by @world (argument)
+>=sys-libs/ncurses-6.0-r1 abi_x86_32
+# required by media-sound/pulseaudio-8.0::gentoo
+# required by media-plugins/alsa-plugins-1.1.0::gentoo[pulseaudio]
+>=media-libs/libsndfile-1.0.26 abi_x86_32
+# required by dev-qt/qtgui-4.8.7::gentoo
+# required by dev-qt/qtcore-4.8.7-r1::gentoo[qt3support]
+# required by dev-qt/qtsql-4.8.7-r1::gentoo
+# required by dev-qt/qt3support-4.8.7::gentoo
+>=dev-qt/qtscript-4.8.7:4 abi_x86_32
+# required by x11-libs/libX11-1.6.3::gentoo
+# required by x11-libs/libXi-1.7.6::gentoo
+# required by dev-qt/qtgui-4.8.7::gentoo
+# required by dev-qt/qtcore-4.8.7-r1::gentoo[qt3support]
+# required by dev-qt/qtsql-4.8.7-r1::gentoo
+# required by dev-qt/qt3support-4.8.7::gentoo
+>=x11-libs/libxcb-1.11.1 abi_x86_32
+# required by media-sound/pulseaudio-8.0::gentoo[tcpd]
+# required by media-plugins/alsa-plugins-1.1.0::gentoo[pulseaudio]
+>=sys-apps/tcp-wrappers-7.6.22-r1 abi_x86_32
+# required by net-print/cups-2.1.3-r1::gentoo[ssl]
+# required by dev-qt/qtgui-4.8.7::gentoo[cups]
+# required by dev-qt/qtcore-4.8.7-r1::gentoo[qt3support]
+# required by dev-qt/qtsql-4.8.7-r1::gentoo
+# required by dev-qt/qt3support-4.8.7::gentoo
+>=dev-libs/libgcrypt-1.6.5 abi_x86_32
+# required by x11-libs/libXv-1.0.10::gentoo
+# required by dev-qt/qtgui-4.8.7::gentoo[xv]
+# required by dev-qt/qtcore-4.8.7-r1::gentoo[qt3support]
+# required by dev-qt/qtsql-4.8.7-r1::gentoo
+# required by dev-qt/qt3support-4.8.7::gentoo
+>=x11-proto/xproto-7.0.28 abi_x86_32
+# required by x11-libs/libXi-1.7.6::gentoo
+# required by dev-qt/qtgui-4.8.7::gentoo
+# required by dev-qt/qtcore-4.8.7-r1::gentoo[qt3support]
+# required by dev-qt/qtsql-4.8.7-r1::gentoo
+# required by dev-qt/qt3support-4.8.7::gentoo
+>=x11-libs/libXext-1.3.3 abi_x86_32
+# required by net-im/skype-4.3.0.37-r6::gentoo
+# required by skype (argument)
+>=x11-libs/libXScrnSaver-1.2.2-r1 abi_x86_32
+# required by dev-qt/qtgui-4.8.7::gentoo
+# required by dev-qt/qtcore-4.8.7-r1::gentoo[qt3support]
+# required by dev-qt/qtsql-4.8.7-r1::gentoo
+# required by dev-qt/qt3support-4.8.7::gentoo
+>=x11-libs/libICE-1.0.9 abi_x86_32
+# required by dev-qt/qtgui-4.8.7::gentoo[xv]
+# required by dev-qt/qtcore-4.8.7-r1::gentoo[qt3support]
+# required by dev-qt/qtsql-4.8.7-r1::gentoo
+# required by dev-qt/qt3support-4.8.7::gentoo
+>=x11-libs/libXv-1.0.10 abi_x86_32
+# required by media-libs/gstreamer-0.10.36-r2::gentoo
+# required by media-libs/gst-plugins-base-0.10.36-r2::gentoo
+# required by dev-qt/qtwebkit-4.8.7::gentoo[gstreamer]
+# required by net-im/skype-4.3.0.37-r6::gentoo
+# required by skype (argument)
+>=virtual/pkgconfig-0-r1 abi_x86_32
+# required by dev-qt/qtgui-4.8.7::gentoo[mng]
+# required by dev-qt/qtcore-4.8.7-r1::gentoo[qt3support]
+# required by dev-qt/qtsql-4.8.7-r1::gentoo
+# required by dev-qt/qt3support-4.8.7::gentoo
+>=media-libs/libmng-2.0.3 abi_x86_32
+# required by x11-libs/libxcb-1.11.1::gentoo
+# required by x11-libs/libX11-1.6.3::gentoo
+# required by x11-libs/libXi-1.7.6::gentoo
+# required by dev-qt/qtgui-4.8.7::gentoo
+# required by dev-qt/qtcore-4.8.7-r1::gentoo[qt3support]
+# required by dev-qt/qtsql-4.8.7-r1::gentoo
+# required by dev-qt/qt3support-4.8.7::gentoo
+>=x11-proto/xcb-proto-1.11 abi_x86_32
+# required by dev-qt/qt3support-4.8.7::gentoo
+# required by dev-qt/qtgui-4.8.7::gentoo[qt3support]
+# required by dev-qt/qtcore-4.8.7-r1::gentoo[qt3support]
+# required by dev-qt/qtscript-4.8.7::gentoo
+>=dev-qt/qtsql-4.8.7-r1:4 abi_x86_32
+# required by media-plugins/alsa-plugins-1.1.0::gentoo
+# required by media-sound/pulseaudio-8.0::gentoo[alsa-plugin,alsa]
+# required by net-im/skype-4.3.0.37-r6::gentoo[pulseaudio]
+# required by skype (argument)
+>=media-libs/alsa-lib-1.1.0 abi_x86_32
+# required by dev-qt/qtwebkit-4.8.7::gentoo
+# required by net-im/skype-4.3.0.37-r6::gentoo
+# required by skype (argument)
+>=dev-qt/qtxmlpatterns-4.8.7:4 abi_x86_32
+# required by net-im/skype-4.3.0.37-r6::gentoo
+# required by skype (argument)
+>=dev-qt/qtwebkit-4.8.7:4 -exceptions abi_x86_32
+# required by x11-libs/libXtst-1.2.2::gentoo
+# required by media-sound/pulseaudio-8.0::gentoo[X]
+# required by media-plugins/alsa-plugins-1.1.0::gentoo[pulseaudio]
+>=x11-proto/inputproto-2.3.1 abi_x86_32
+# required by virtual/jpeg-0-r2::gentoo
+# required by dev-qt/qtgui-4.8.7::gentoo
+# required by dev-qt/qtcore-4.8.7-r1::gentoo[qt3support]
+# required by dev-qt/qtsql-4.8.7-r1::gentoo
+# required by dev-qt/qt3support-4.8.7::gentoo
+>=media-libs/libjpeg-turbo-1.4.2 abi_x86_32
+# required by sys-apps/systemd-229::gentoo
+# required by sys-apps/dbus-1.10.8::gentoo[systemd]
+# required by net-print/cups-2.1.3-r1::gentoo[dbus]
+# required by dev-qt/qtgui-4.8.7::gentoo[cups]
+# required by dev-qt/qtcore-4.8.7-r1::gentoo[qt3support]
+# required by dev-qt/qtsql-4.8.7-r1::gentoo
+# required by dev-qt/qt3support-4.8.7::gentoo
+>=sys-apps/util-linux-2.27.1 abi_x86_32
+# required by media-sound/pulseaudio-8.0::gentoo
+# required by media-plugins/alsa-plugins-1.1.0::gentoo[pulseaudio]
+>=dev-libs/json-c-0.12 abi_x86_32
+# required by media-libs/fontconfig-2.11.94::gentoo
+# required by dev-qt/qtgui-4.8.7::gentoo
+# required by dev-qt/qtcore-4.8.7-r1::gentoo[qt3support]
+# required by dev-qt/qtsql-4.8.7-r1::gentoo
+# required by dev-qt/qt3support-4.8.7::gentoo
+>=dev-libs/expat-2.1.1 abi_x86_32
+# required by net-print/cups-2.1.3-r1::gentoo[ssl]
+# required by dev-qt/qtgui-4.8.7::gentoo[cups]
+# required by dev-qt/qtcore-4.8.7-r1::gentoo[qt3support]
+# required by dev-qt/qtsql-4.8.7-r1::gentoo
+# required by dev-qt/qt3support-4.8.7::gentoo
+>=net-libs/gnutls-3.3.22 abi_x86_32
+# required by dev-qt/qtwebkit-4.8.7::gentoo
+# required by net-im/skype-4.3.0.37-r6::gentoo
+# required by skype (argument)
+>=dev-qt/qtgui-4.8.7:4 abi_x86_32
+# required by x11-libs/libXext-1.3.3::gentoo
+# required by x11-libs/libXi-1.7.6::gentoo
+# required by dev-qt/qtgui-4.8.7::gentoo
+# required by dev-qt/qtcore-4.8.7-r1::gentoo[qt3support]
+# required by dev-qt/qtsql-4.8.7-r1::gentoo
+# required by dev-qt/qt3support-4.8.7::gentoo
+>=x11-libs/libX11-1.6.3 abi_x86_32
+# required by x11-libs/libXtst-1.2.2::gentoo
+# required by media-sound/pulseaudio-8.0::gentoo[X]
+# required by media-plugins/alsa-plugins-1.1.0::gentoo[pulseaudio]
+>=x11-libs/libXi-1.7.6 abi_x86_32
+# required by media-sound/pulseaudio-8.0::gentoo[alsa-plugin,alsa]
+# required by net-im/skype-4.3.0.37-r6::gentoo[pulseaudio]
+# required by skype (argument)
+>=media-plugins/alsa-plugins-1.1.0 abi_x86_32
+# required by net-im/skype-4.3.0.37-r6::gentoo
+# required by skype (argument)
+>=dev-qt/qtdbus-4.8.7:4 abi_x86_32
+# required by media-plugins/alsa-plugins-1.1.0::gentoo[pulseaudio]
+>=media-sound/pulseaudio-8.0 abi_x86_32
+# required by x11-libs/libxcb-1.11.1::gentoo
+# required by x11-libs/libX11-1.6.3::gentoo
+# required by x11-libs/libXi-1.7.6::gentoo
+# required by dev-qt/qtgui-4.8.7::gentoo
+# required by dev-qt/qtcore-4.8.7-r1::gentoo[qt3support]
+# required by dev-qt/qtsql-4.8.7-r1::gentoo
+# required by dev-qt/qt3support-4.8.7::gentoo
+>=dev-libs/libpthread-stubs-0.3-r1 abi_x86_32
+# required by media-libs/gst-plugins-base-0.10.36-r2::gentoo
+# required by dev-qt/qtwebkit-4.8.7::gentoo[gstreamer]
+# required by net-im/skype-4.3.0.37-r6::gentoo
+# required by skype (argument)
+>=dev-libs/libxml2-2.9.3 abi_x86_32
+# required by x11-libs/libXrandr-1.5.0::gentoo
+# required by dev-qt/qtgui-4.8.7::gentoo
+# required by dev-qt/qtcore-4.8.7-r1::gentoo[qt3support]
+# required by dev-qt/qtsql-4.8.7-r1::gentoo
+# required by dev-qt/qt3support-4.8.7::gentoo
+>=x11-proto/renderproto-0.11.1-r1 abi_x86_32
+# required by media-libs/libmng-2.0.3::gentoo[lcms]
+# required by dev-qt/qtgui-4.8.7::gentoo[mng]
+# required by dev-qt/qtcore-4.8.7-r1::gentoo[qt3support]
+# required by dev-qt/qtsql-4.8.7-r1::gentoo
+# required by dev-qt/qt3support-4.8.7::gentoo
+>=media-libs/lcms-2.7 abi_x86_32
+# required by media-sound/pulseaudio-8.0::gentoo[systemd]
+# required by media-plugins/alsa-plugins-1.1.0::gentoo[pulseaudio]
+>=sys-apps/systemd-229 abi_x86_32
+# required by dev-db/sqlite-3.11.1::gentoo[readline]
+# required by dev-qt/qtsql-4.8.7-r1::gentoo[sqlite]
+# required by dev-qt/qt3support-4.8.7::gentoo
+# required by dev-qt/qtgui-4.8.7::gentoo[qt3support]
+# required by dev-qt/qtcore-4.8.7-r1::gentoo[qt3support]
+# required by dev-qt/qtscript-4.8.7::gentoo
+>=sys-libs/readline-6.3_p8-r2 abi_x86_32
+# required by x11-libs/libXfixes-5.0.1::gentoo
+# required by x11-libs/libXcursor-1.1.14::gentoo
+# required by dev-qt/qtgui-4.8.7::gentoo
+# required by dev-qt/qtcore-4.8.7-r1::gentoo[qt3support]
+# required by dev-qt/qtsql-4.8.7-r1::gentoo
+# required by dev-qt/qt3support-4.8.7::gentoo
+>=x11-proto/fixesproto-5.0-r1 abi_x86_32
+# required by x11-libs/libXcursor-1.1.14::gentoo
+# required by dev-qt/qtgui-4.8.7::gentoo
+# required by dev-qt/qtcore-4.8.7-r1::gentoo[qt3support]
+# required by dev-qt/qtsql-4.8.7-r1::gentoo
+# required by dev-qt/qt3support-4.8.7::gentoo
+>=x11-libs/libXfixes-5.0.1 abi_x86_32
+# required by net-libs/gnutls-3.3.22::gentoo
+# required by net-print/cups-2.1.3-r1::gentoo[ssl]
+# required by dev-qt/qtgui-4.8.7::gentoo[cups]
+# required by dev-qt/qtcore-4.8.7-r1::gentoo[qt3support]
+# required by dev-qt/qtsql-4.8.7-r1::gentoo
+# required by dev-qt/qt3support-4.8.7::gentoo
+>=dev-libs/nettle-3.2 abi_x86_32
+# required by media-libs/lcms-2.7::gentoo[zlib]
+# required by media-libs/libmng-2.0.3::gentoo[lcms]
+# required by dev-qt/qtgui-4.8.7::gentoo[mng]
+# required by dev-qt/qtcore-4.8.7-r1::gentoo[qt3support]
+# required by dev-qt/qtsql-4.8.7-r1::gentoo
+# required by dev-qt/qt3support-4.8.7::gentoo
+>=sys-libs/zlib-1.2.8-r1 abi_x86_32
+# required by virtual/libffi-3.0.13-r1::gentoo
+# required by dev-libs/glib-2.46.2-r2::gentoo
+# required by dev-qt/qtcore-4.8.7-r1::gentoo[glib]
+# required by dev-qt/qtsql-4.8.7-r1::gentoo
+# required by dev-qt/qt3support-4.8.7::gentoo
+# required by dev-qt/qtgui-4.8.7::gentoo[qt3support]
+# required by dev-qt/qtwebkit-4.8.7::gentoo
+# required by net-im/skype-4.3.0.37-r6::gentoo
+# required by skype (argument)
+>=dev-libs/libffi-3.2.1 abi_x86_32
+# required by virtual/pkgconfig-0-r1::gentoo
+# required by media-libs/libvorbis-1.3.5::gentoo
+# required by media-libs/libsndfile-1.0.26::gentoo[-minimal]
+# required by media-sound/pulseaudio-8.0::gentoo
+# required by media-plugins/alsa-plugins-1.1.0::gentoo[pulseaudio]
+>=dev-util/pkgconfig-0.29.1 abi_x86_32
+# required by net-libs/gnutls-3.3.22::gentoo
+# required by net-print/cups-2.1.3-r1::gentoo[ssl]
+# required by dev-qt/qtgui-4.8.7::gentoo[cups]
+# required by dev-qt/qtcore-4.8.7-r1::gentoo[qt3support]
+# required by dev-qt/qtsql-4.8.7-r1::gentoo
+# required by dev-qt/qt3support-4.8.7::gentoo
+>=dev-libs/libtasn1-4.7 abi_x86_32
+# required by dev-qt/qtgui-4.8.7::gentoo[qt3support]
+# required by dev-qt/qtcore-4.8.7-r1::gentoo[qt3support]
+# required by dev-qt/qtsql-4.8.7-r1::gentoo
+>=dev-qt/qt3support-4.8.7 abi_x86_32
+# required by x11-libs/libXrandr-1.5.0::gentoo
+# required by dev-qt/qtgui-4.8.7::gentoo
+# required by dev-qt/qtcore-4.8.7-r1::gentoo[qt3support]
+# required by dev-qt/qtsql-4.8.7-r1::gentoo
+# required by dev-qt/qt3support-4.8.7::gentoo
+>=x11-proto/randrproto-1.5.0 abi_x86_32
+# required by dev-libs/glib-2.46.2-r2::gentoo
+# required by dev-qt/qtcore-4.8.7-r1::gentoo[glib]
+# required by dev-qt/qtsql-4.8.7-r1::gentoo
+# required by dev-qt/qt3support-4.8.7::gentoo
+# required by dev-qt/qtgui-4.8.7::gentoo[qt3support]
+# required by dev-qt/qtwebkit-4.8.7::gentoo
+# required by net-im/skype-4.3.0.37-r6::gentoo
+# required by skype (argument)
+>=virtual/libffi-3.0.13-r1 abi_x86_32
+# required by media-libs/libsndfile-1.0.26::gentoo[-minimal]
+# required by media-sound/pulseaudio-8.0::gentoo
+# required by media-plugins/alsa-plugins-1.1.0::gentoo[pulseaudio]
+>=media-libs/flac-1.3.1-r1 abi_x86_32
+# required by x11-libs/libxcb-1.11.1::gentoo
+# required by x11-libs/libX11-1.6.3::gentoo
+# required by x11-libs/libXi-1.7.6::gentoo
+# required by dev-qt/qtgui-4.8.7::gentoo
+# required by dev-qt/qtcore-4.8.7-r1::gentoo[qt3support]
+# required by dev-qt/qtsql-4.8.7-r1::gentoo
+# required by dev-qt/qt3support-4.8.7::gentoo
+>=x11-libs/libXdmcp-1.1.2-r1 abi_x86_32
+# required by dev-qt/qtgui-4.8.7::gentoo
+# required by dev-qt/qtcore-4.8.7-r1::gentoo[qt3support]
+# required by dev-qt/qtsql-4.8.7-r1::gentoo
+# required by dev-qt/qt3support-4.8.7::gentoo
+>=media-libs/libpng-1.6.21 abi_x86_32
+# required by media-libs/gst-plugins-base-0.10.36-r2::gentoo
+# required by dev-qt/qtwebkit-4.8.7::gentoo[gstreamer]
+# required by net-im/skype-4.3.0.37-r6::gentoo
+# required by skype (argument)
+>=media-libs/gstreamer-0.10.36-r2:0.10 abi_x86_32
+# required by sys-apps/systemd-229::gentoo
+# required by sys-apps/util-linux-2.27.1::gentoo[systemd,-build]
+# required by x11-libs/libSM-1.2.2-r1::gentoo[uuid]
+# required by media-sound/pulseaudio-8.0::gentoo[X]
+# required by media-plugins/alsa-plugins-1.1.0::gentoo[pulseaudio]
+>=sys-libs/libcap-2.25 abi_x86_32
+# required by media-libs/tiff-4.0.6::gentoo[jpeg]
+# required by dev-qt/qtgui-4.8.7::gentoo[tiff]
+# required by dev-qt/qtcore-4.8.7-r1::gentoo[qt3support]
+# required by dev-qt/qtsql-4.8.7-r1::gentoo
+# required by dev-qt/qt3support-4.8.7::gentoo
+>=virtual/jpeg-0-r2:0 abi_x86_32
+# required by dev-qt/qtgui-4.8.7::gentoo
+# required by dev-qt/qtcore-4.8.7-r1::gentoo[qt3support]
+# required by dev-qt/qtsql-4.8.7-r1::gentoo
+# required by dev-qt/qt3support-4.8.7::gentoo
+>=x11-libs/libXcursor-1.1.14 abi_x86_32
+# required by dev-qt/qtgui-4.8.7::gentoo
+# required by dev-qt/qtcore-4.8.7-r1::gentoo[qt3support]
+# required by dev-qt/qtsql-4.8.7-r1::gentoo
+# required by dev-qt/qt3support-4.8.7::gentoo
+>=media-libs/fontconfig-2.11.94 abi_x86_32
+# required by dev-qt/qtcore-4.8.7-r1::gentoo[-libressl,ssl]
+# required by dev-qt/qtsql-4.8.7-r1::gentoo
+# required by dev-qt/qt3support-4.8.7::gentoo
+# required by dev-qt/qtgui-4.8.7::gentoo[qt3support]
+# required by dev-qt/qtwebkit-4.8.7::gentoo
+# required by net-im/skype-4.3.0.37-r6::gentoo
+# required by skype (argument)
+>=dev-libs/openssl-1.0.2g-r2 abi_x86_32
+# required by dev-qt/qtwebkit-4.8.7::gentoo
+# required by net-im/skype-4.3.0.37-r6::gentoo
+# required by skype (argument)
+>=dev-qt/qtcore-4.8.7-r1:4 abi_x86_32
+# required by media-sound/pulseaudio-8.0::gentoo[asyncns]
+# required by media-plugins/alsa-plugins-1.1.0::gentoo[pulseaudio]
+>=net-libs/libasyncns-0.8-r4 abi_x86_32
+# required by net-libs/gnutls-3.3.22::gentoo[nls]
+# required by net-print/cups-2.1.3-r1::gentoo[ssl]
+# required by dev-qt/qtgui-4.8.7::gentoo[cups]
+# required by dev-qt/qtcore-4.8.7-r1::gentoo[qt3support]
+# required by dev-qt/qtsql-4.8.7-r1::gentoo
+# required by dev-qt/qt3support-4.8.7::gentoo
+>=virtual/libintl-0-r2 abi_x86_32
+# required by dev-qt/qtgui-4.8.7::gentoo[xv]
+# required by dev-qt/qtcore-4.8.7-r1::gentoo[qt3support]
+# required by dev-qt/qtsql-4.8.7-r1::gentoo
+# required by dev-qt/qt3support-4.8.7::gentoo
+>=x11-proto/videoproto-2.3.3 abi_x86_32
+# required by x11-libs/libxcb-1.11.1::gentoo
+# required by x11-libs/libX11-1.6.3::gentoo
+# required by x11-libs/libXi-1.7.6::gentoo
+# required by dev-qt/qtgui-4.8.7::gentoo
+# required by dev-qt/qtcore-4.8.7-r1::gentoo[qt3support]
+# required by dev-qt/qtsql-4.8.7-r1::gentoo
+# required by dev-qt/qt3support-4.8.7::gentoo
+>=x11-libs/libXau-1.0.8 abi_x86_32
+# required by dev-qt/qtgui-4.8.7::gentoo
+# required by dev-qt/qtcore-4.8.7-r1::gentoo[qt3support]
+# required by dev-qt/qtsql-4.8.7-r1::gentoo
+# required by dev-qt/qt3support-4.8.7::gentoo
+>=x11-libs/libSM-1.2.2-r1 abi_x86_32
+# required by dev-libs/libgcrypt-1.6.5::gentoo
+# required by net-print/cups-2.1.3-r1::gentoo[ssl]
+# required by dev-qt/qtgui-4.8.7::gentoo[cups]
+# required by dev-qt/qtcore-4.8.7-r1::gentoo[qt3support]
+# required by dev-qt/qtsql-4.8.7-r1::gentoo
+# required by dev-qt/qt3support-4.8.7::gentoo
+>=dev-libs/libgpg-error-1.21 abi_x86_32
+# required by sys-libs/ncurses-6.0-r1::gentoo[gpm]
+# required by sys-libs/readline-6.3_p8-r2::gentoo
+# required by sys-apps/util-linux-2.27.1::gentoo[readline]
+# required by x11-libs/libSM-1.2.2-r1::gentoo[uuid]
+# required by media-sound/pulseaudio-8.0::gentoo[X]
+# required by media-plugins/alsa-plugins-1.1.0::gentoo[pulseaudio]
+>=sys-libs/gpm-1.20.7-r2 abi_x86_32
+# required by media-sound/pulseaudio-8.0::gentoo[glib]
+# required by media-plugins/alsa-plugins-1.1.0::gentoo[pulseaudio]
+>=dev-libs/glib-2.46.2-r2 abi_x86_32
+# required by dev-qt/qtgui-4.8.7::gentoo
+# required by dev-qt/qtcore-4.8.7-r1::gentoo[qt3support]
+# required by dev-qt/qtsql-4.8.7-r1::gentoo
+# required by dev-qt/qt3support-4.8.7::gentoo
+>=media-libs/freetype-2.6.3 abi_x86_32
+# required by dev-qt/qtsql-4.8.7-r1::gentoo[sqlite]
+# required by dev-qt/qt3support-4.8.7::gentoo
+# required by dev-qt/qtgui-4.8.7::gentoo[qt3support]
+# required by dev-qt/qtcore-4.8.7-r1::gentoo[qt3support]
+# required by dev-qt/qtscript-4.8.7::gentoo
+>=dev-db/sqlite-3.11.1 abi_x86_32
+# required by media-libs/libvorbis-1.3.5::gentoo
+# required by media-libs/libsndfile-1.0.26::gentoo[-minimal]
+# required by media-sound/pulseaudio-8.0::gentoo
+# required by media-plugins/alsa-plugins-1.1.0::gentoo[pulseaudio]
+>=media-libs/libogg-1.3.2 abi_x86_32
+# required by x11-libs/libXScrnSaver-1.2.2-r1::gentoo
+# required by net-im/skype-4.3.0.37-r6::gentoo
+# required by skype (argument)
+>=x11-proto/scrnsaverproto-1.2.2-r1 abi_x86_32
+# required by sys-libs/libcap-2.25::gentoo
+# required by sys-apps/systemd-229::gentoo
+# required by sys-apps/util-linux-2.27.1::gentoo[systemd,-build]
+# required by x11-libs/libSM-1.2.2-r1::gentoo[uuid]
+# required by media-sound/pulseaudio-8.0::gentoo[X]
+# required by media-plugins/alsa-plugins-1.1.0::gentoo[pulseaudio]
+>=sys-apps/attr-2.4.47-r2 abi_x86_32
+# required by x11-libs/libXcursor-1.1.14::gentoo
+# required by dev-qt/qtgui-4.8.7::gentoo
+# required by dev-qt/qtcore-4.8.7-r1::gentoo[qt3support]
+# required by dev-qt/qtsql-4.8.7-r1::gentoo
+# required by dev-qt/qt3support-4.8.7::gentoo
+>=x11-libs/libXrender-0.9.9 abi_x86_32
+# required by dev-qt/qtgui-4.8.7::gentoo[cups]
+# required by dev-qt/qtcore-4.8.7-r1::gentoo[qt3support]
+# required by dev-qt/qtsql-4.8.7-r1::gentoo
+# required by dev-qt/qt3support-4.8.7::gentoo
+>=net-print/cups-2.1.3-r1 abi_x86_32
+# required by media-sound/pulseaudio-8.0::gentoo[X]
+# required by media-plugins/alsa-plugins-1.1.0::gentoo[pulseaudio]
+>=x11-libs/libXtst-1.2.2 abi_x86_32
+# required by dev-qt/qtcore-4.8.7-r1::gentoo[iconv]
+# required by dev-qt/qtsql-4.8.7-r1::gentoo
+# required by dev-qt/qt3support-4.8.7::gentoo
+# required by dev-qt/qtgui-4.8.7::gentoo[qt3support]
+# required by dev-qt/qtwebkit-4.8.7::gentoo
+# required by net-im/skype-4.3.0.37-r6::gentoo
+# required by skype (argument)
+>=virtual/libiconv-0-r2 abi_x86_32
+# required by media-libs/freetype-2.6.3::gentoo[bzip2]
+# required by dev-qt/qtgui-4.8.7::gentoo
+# required by dev-qt/qtcore-4.8.7-r1::gentoo[qt3support]
+# required by dev-qt/qtsql-4.8.7-r1::gentoo
+# required by dev-qt/qt3support-4.8.7::gentoo
+>=app-arch/bzip2-1.0.6-r7 abi_x86_32
+# required by x11-libs/libX11-1.6.3::gentoo
+# required by x11-libs/libXi-1.7.6::gentoo
+# required by dev-qt/qtgui-4.8.7::gentoo
+# required by dev-qt/qtcore-4.8.7-r1::gentoo[qt3support]
+# required by dev-qt/qtsql-4.8.7-r1::gentoo
+# required by dev-qt/qt3support-4.8.7::gentoo
+>=x11-proto/xf86bigfontproto-1.2.0-r1 abi_x86_32
+# required by media-libs/libsndfile-1.0.26::gentoo[-minimal]
+# required by media-sound/pulseaudio-8.0::gentoo
+# required by media-plugins/alsa-plugins-1.1.0::gentoo[pulseaudio]
+>=media-libs/libvorbis-1.3.5 abi_x86_32
+# required by app-emulation/virt-manager-1.3.2::gentoo[gtk]
+# required by virt-manager (argument)
+>=net-libs/gtk-vnc-0.5.4 python
+# required by app-emulation/virt-manager-1.3.2::gentoo
+# required by virt-manager (argument)
+>=app-emulation/libvirt-glib-0.2.3 python
+# required by app-emulation/virt-manager-1.3.2::gentoo[gtk]
+# required by virt-manager (argument)
+>=net-misc/spice-gtk-0.30-r1 python usbredir
+# required by x11-libs/libXdamage-1.1.4-r1::gentoo
+# required by media-libs/mesa-11.1.2-r1::gentoo
+# required by x11-libs/cairo-1.14.6::gentoo[opengl]
+# required by x11-libs/pango-1.38.1::gentoo
+# required by x11-libs/gtk+-2.24.29::gentoo
+# required by net-dns/avahi-0.6.32::gentoo[gtk]
+# required by net-print/cups-2.1.3-r1::gentoo[zeroconf]
+# required by gnome-base/gnome-control-center-3.18.2::gentoo[cups]
+# required by gnome-base/gnome-shell-3.18.4-r1::gentoo
+# required by @selected
+# required by @world (argument)
+>=x11-proto/damageproto-1.2.1-r1 abi_x86_32
+# required by x11-libs/gtk+-2.24.29::gentoo
+# required by net-dns/avahi-0.6.32::gentoo[gtk]
+# required by net-print/cups-2.1.3-r1::gentoo[zeroconf]
+# required by gnome-base/gnome-control-center-3.18.2::gentoo[cups]
+# required by gnome-base/gnome-shell-3.18.4-r1::gentoo
+# required by @selected
+# required by @world (argument)
+>=gnome-base/librsvg-2.40.13-r1 abi_x86_32
+# required by media-libs/mesa-11.1.2-r1::gentoo
+# required by x11-libs/cairo-1.14.6::gentoo[opengl]
+# required by x11-libs/pango-1.38.1::gentoo
+# required by x11-libs/gtk+-2.24.29::gentoo
+# required by net-dns/avahi-0.6.32::gentoo[gtk]
+# required by net-print/cups-2.1.3-r1::gentoo[zeroconf]
+# required by gnome-base/gnome-control-center-3.18.2::gentoo[cups]
+# required by gnome-base/gnome-shell-3.18.4-r1::gentoo
+# required by @selected
+# required by @world (argument)
+>=x11-libs/libxshmfence-1.2 abi_x86_32
+# required by gnome-base/librsvg-2.40.13-r1::gentoo
+# required by x11-libs/gtk+-2.24.29::gentoo
+# required by net-dns/avahi-0.6.32::gentoo[gtk]
+# required by net-print/cups-2.1.3-r1::gentoo[zeroconf]
+# required by gnome-base/gnome-control-center-3.18.2::gentoo[cups]
+# required by gnome-base/gnome-shell-3.18.4-r1::gentoo
+# required by @selected
+# required by @world (argument)
+>=dev-libs/libcroco-0.6.11 abi_x86_32
+# required by x11-libs/gtk+-2.24.29::gentoo
+# required by net-dns/avahi-0.6.32::gentoo[gtk]
+# required by net-print/cups-2.1.3-r1::gentoo[zeroconf]
+# required by gnome-base/gnome-control-center-3.18.2::gentoo[cups]
+# required by gnome-base/gnome-shell-3.18.4-r1::gentoo
+# required by @selected
+# required by @world (argument)
+>=dev-libs/atk-2.18.0 abi_x86_32
+# required by x11-libs/pango-1.38.1::gentoo
+# required by x11-libs/gtk+-2.24.29::gentoo
+# required by net-dns/avahi-0.6.32::gentoo[gtk]
+# required by net-print/cups-2.1.3-r1::gentoo[zeroconf]
+# required by gnome-base/gnome-control-center-3.18.2::gentoo[cups]
+# required by gnome-base/gnome-shell-3.18.4-r1::gentoo
+# required by @selected
+# required by @world (argument)
+>=x11-libs/cairo-1.14.6 abi_x86_32
+# required by x11-libs/libXcomposite-0.4.4-r1::gentoo
+# required by x11-libs/gtk+-2.24.29::gentoo
+# required by net-dns/avahi-0.6.32::gentoo[gtk]
+# required by net-print/cups-2.1.3-r1::gentoo[zeroconf]
+# required by gnome-base/gnome-control-center-3.18.2::gentoo[cups]
+# required by gnome-base/gnome-shell-3.18.4-r1::gentoo
+# required by @selected
+# required by @world (argument)
+>=x11-proto/compositeproto-0.4.2-r1 abi_x86_32
+# required by media-libs/harfbuzz-1.2.3::gentoo[graphite]
+# required by x11-libs/pango-1.38.1::gentoo
+# required by x11-libs/gtk+-2.24.29::gentoo
+# required by net-dns/avahi-0.6.32::gentoo[gtk]
+# required by net-print/cups-2.1.3-r1::gentoo[zeroconf]
+# required by gnome-base/gnome-control-center-3.18.2::gentoo[cups]
+# required by gnome-base/gnome-shell-3.18.4-r1::gentoo
+# required by @selected
+# required by @world (argument)
+>=media-gfx/graphite2-1.3.5-r1 abi_x86_32
+# required by x11-libs/pango-1.38.1::gentoo[X]
+# required by x11-libs/gtk+-2.24.29::gentoo
+# required by net-dns/avahi-0.6.32::gentoo[gtk]
+# required by net-print/cups-2.1.3-r1::gentoo[zeroconf]
+# required by gnome-base/gnome-control-center-3.18.2::gentoo[cups]
+# required by gnome-base/gnome-shell-3.18.4-r1::gentoo
+# required by @selected
+# required by @world (argument)
+>=x11-libs/libXft-2.3.2 abi_x86_32
+# required by x11-libs/gtk+-2.24.29::gentoo
+# required by net-dns/avahi-0.6.32::gentoo[gtk]
+# required by net-print/cups-2.1.3-r1::gentoo[zeroconf]
+# required by gnome-base/gnome-control-center-3.18.2::gentoo[cups]
+# required by gnome-base/gnome-shell-3.18.4-r1::gentoo
+# required by @selected
+# required by @world (argument)
+>=x11-libs/libXcomposite-0.4.4-r1 abi_x86_32
+# required by media-libs/mesa-11.1.2-r1::gentoo
+# required by x11-libs/cairo-1.14.6::gentoo[opengl]
+# required by x11-libs/pango-1.38.1::gentoo
+# required by x11-libs/gtk+-2.24.29::gentoo
+# required by net-dns/avahi-0.6.32::gentoo[gtk]
+# required by net-print/cups-2.1.3-r1::gentoo[zeroconf]
+# required by gnome-base/gnome-control-center-3.18.2::gentoo[cups]
+# required by gnome-base/gnome-shell-3.18.4-r1::gentoo
+# required by @selected
+# required by @world (argument)
+>=x11-proto/xf86vidmodeproto-2.3.1-r1 abi_x86_32
+# required by x11-libs/cairo-1.14.6::gentoo
+# required by x11-libs/pango-1.38.1::gentoo
+# required by x11-libs/gtk+-2.24.29::gentoo
+# required by net-dns/avahi-0.6.32::gentoo[gtk]
+# required by net-print/cups-2.1.3-r1::gentoo[zeroconf]
+# required by gnome-base/gnome-control-center-3.18.2::gentoo[cups]
+# required by gnome-base/gnome-shell-3.18.4-r1::gentoo
+# required by @selected
+# required by @world (argument)
+>=sys-libs/binutils-libs-2.25.1-r2 abi_x86_32
+# required by media-libs/mesa-11.1.2-r1::gentoo
+# required by x11-libs/cairo-1.14.6::gentoo[opengl]
+# required by x11-libs/pango-1.38.1::gentoo
+# required by x11-libs/gtk+-2.24.29::gentoo
+# required by net-dns/avahi-0.6.32::gentoo[gtk]
+# required by net-print/cups-2.1.3-r1::gentoo[zeroconf]
+# required by gnome-base/gnome-control-center-3.18.2::gentoo[cups]
+# required by gnome-base/gnome-shell-3.18.4-r1::gentoo
+# required by @selected
+# required by @world (argument)
+>=x11-proto/glproto-1.4.17-r1 abi_x86_32
+# required by media-libs/mesa-11.1.2-r1::gentoo[dri3]
+# required by x11-libs/cairo-1.14.6::gentoo[opengl]
+# required by x11-libs/pango-1.38.1::gentoo
+# required by x11-libs/gtk+-2.24.29::gentoo
+# required by net-dns/avahi-0.6.32::gentoo[gtk]
+# required by net-print/cups-2.1.3-r1::gentoo[zeroconf]
+# required by gnome-base/gnome-control-center-3.18.2::gentoo[cups]
+# required by gnome-base/gnome-shell-3.18.4-r1::gentoo
+# required by @selected
+# required by @world (argument)
+>=x11-proto/presentproto-1.0 abi_x86_32
+# required by media-libs/harfbuzz-1.2.3::gentoo[icu]
+# required by x11-libs/pango-1.38.1::gentoo
+# required by x11-libs/gtk+-2.24.29::gentoo
+# required by net-dns/avahi-0.6.32::gentoo[gtk]
+# required by net-print/cups-2.1.3-r1::gentoo[zeroconf]
+# required by gnome-base/gnome-control-center-3.18.2::gentoo[cups]
+# required by gnome-base/gnome-shell-3.18.4-r1::gentoo
+# required by @selected
+# required by @world (argument)
+>=dev-libs/icu-56.1-r1 abi_x86_32
+# required by gnome-base/librsvg-2.40.13-r1::gentoo
+# required by x11-libs/gtk+-2.24.29::gentoo
+# required by net-dns/avahi-0.6.32::gentoo[gtk]
+# required by net-print/cups-2.1.3-r1::gentoo[zeroconf]
+# required by gnome-base/gnome-control-center-3.18.2::gentoo[cups]
+# required by gnome-base/gnome-shell-3.18.4-r1::gentoo
+# required by @selected
+# required by @world (argument)
+>=x11-libs/gdk-pixbuf-2.32.3 abi_x86_32
+# required by media-libs/mesa-11.1.2-r1::gentoo
+# required by x11-libs/cairo-1.14.6::gentoo[opengl]
+# required by x11-libs/pango-1.38.1::gentoo
+# required by x11-libs/gtk+-2.24.29::gentoo
+# required by net-dns/avahi-0.6.32::gentoo[gtk]
+# required by net-print/cups-2.1.3-r1::gentoo[zeroconf]
+# required by gnome-base/gnome-control-center-3.18.2::gentoo[cups]
+# required by gnome-base/gnome-shell-3.18.4-r1::gentoo
+# required by @selected
+# required by @world (argument)
+>=x11-libs/libXxf86vm-1.1.4 abi_x86_32
+# required by media-libs/mesa-11.1.2-r1::gentoo[udev]
+# required by x11-libs/cairo-1.14.6::gentoo[opengl]
+# required by x11-libs/pango-1.38.1::gentoo
+# required by x11-libs/gtk+-2.24.29::gentoo
+# required by net-dns/avahi-0.6.32::gentoo[gtk]
+# required by net-print/cups-2.1.3-r1::gentoo[zeroconf]
+# required by gnome-base/gnome-control-center-3.18.2::gentoo[cups]
+# required by gnome-base/gnome-shell-3.18.4-r1::gentoo
+# required by @selected
+# required by @world (argument)
+>=virtual/libudev-215-r1 abi_x86_32
+# required by net-print/cups-2.1.3-r1::gentoo[zeroconf]
+# required by x11-libs/gtk+-2.24.29::gentoo[cups]
+>=net-dns/avahi-0.6.32 abi_x86_32
+# required by media-libs/mesa-11.1.2-r1::gentoo
+# required by x11-libs/cairo-1.14.6::gentoo[opengl]
+# required by x11-libs/pango-1.38.1::gentoo
+# required by x11-libs/gtk+-2.24.29::gentoo
+# required by net-dns/avahi-0.6.32::gentoo[gtk]
+# required by net-print/cups-2.1.3-r1::gentoo[zeroconf]
+# required by gnome-base/gnome-control-center-3.18.2::gentoo[cups]
+# required by gnome-base/gnome-shell-3.18.4-r1::gentoo
+# required by @selected
+# required by @world (argument)
+>=x11-libs/libdrm-2.4.67 abi_x86_32
+# required by media-libs/mesa-11.1.2-r1::gentoo
+# required by x11-libs/cairo-1.14.6::gentoo[opengl]
+# required by x11-libs/pango-1.38.1::gentoo
+# required by x11-libs/gtk+-2.24.29::gentoo
+# required by net-dns/avahi-0.6.32::gentoo[gtk]
+# required by net-print/cups-2.1.3-r1::gentoo[zeroconf]
+# required by gnome-base/gnome-control-center-3.18.2::gentoo[cups]
+# required by gnome-base/gnome-shell-3.18.4-r1::gentoo
+# required by @selected
+# required by @world (argument)
+>=x11-proto/dri2proto-2.8-r1 abi_x86_32
+# required by x11-libs/cairo-1.14.6::gentoo
+# required by x11-libs/pango-1.38.1::gentoo
+# required by x11-libs/gtk+-2.24.29::gentoo
+# required by net-dns/avahi-0.6.32::gentoo[gtk]
+# required by net-print/cups-2.1.3-r1::gentoo[zeroconf]
+# required by gnome-base/gnome-control-center-3.18.2::gentoo[cups]
+# required by gnome-base/gnome-shell-3.18.4-r1::gentoo
+# required by @selected
+# required by @world (argument)
+>=dev-libs/lzo-2.09 abi_x86_32
+# required by x11-libs/cairo-1.14.6::gentoo
+# required by x11-libs/pango-1.38.1::gentoo
+# required by x11-libs/gtk+-2.24.29::gentoo
+# required by net-dns/avahi-0.6.32::gentoo[gtk]
+# required by net-print/cups-2.1.3-r1::gentoo[zeroconf]
+# required by gnome-base/gnome-control-center-3.18.2::gentoo[cups]
+# required by gnome-base/gnome-shell-3.18.4-r1::gentoo
+# required by @selected
+# required by @world (argument)
+>=x11-libs/pixman-0.34.0 abi_x86_32
+# required by gnome-base/librsvg-2.40.13-r1::gentoo
+# required by x11-libs/gtk+-2.24.29::gentoo
+# required by net-dns/avahi-0.6.32::gentoo[gtk]
+# required by net-print/cups-2.1.3-r1::gentoo[zeroconf]
+# required by gnome-base/gnome-control-center-3.18.2::gentoo[cups]
+# required by gnome-base/gnome-shell-3.18.4-r1::gentoo
+# required by @selected
+# required by @world (argument)
+>=x11-libs/pango-1.38.1 abi_x86_32
+# required by media-libs/mesa-11.1.2-r1::gentoo
+# required by x11-libs/cairo-1.14.6::gentoo[opengl]
+# required by x11-libs/pango-1.38.1::gentoo
+# required by x11-libs/gtk+-2.24.29::gentoo
+# required by net-dns/avahi-0.6.32::gentoo[gtk]
+# required by net-print/cups-2.1.3-r1::gentoo[zeroconf]
+# required by gnome-base/gnome-control-center-3.18.2::gentoo[cups]
+# required by gnome-base/gnome-shell-3.18.4-r1::gentoo
+# required by @selected
+# required by @world (argument)
+>=x11-proto/xf86driproto-2.1.1-r1 abi_x86_32
+# required by net-dns/avahi-0.6.32::gentoo[gtk]
+# required by net-print/cups-2.1.3-r1::gentoo[zeroconf]
+# required by gnome-base/gnome-control-center-3.18.2::gentoo[cups]
+# required by gnome-base/gnome-shell-3.18.4-r1::gentoo
+# required by @selected
+# required by @world (argument)
+>=x11-libs/gtk+-2.24.29:2 abi_x86_32
+# required by x11-libs/cairo-1.14.6::gentoo[opengl]
+# required by x11-libs/pango-1.38.1::gentoo
+# required by x11-libs/gtk+-2.24.29::gentoo
+# required by net-dns/avahi-0.6.32::gentoo[gtk]
+# required by net-print/cups-2.1.3-r1::gentoo[zeroconf]
+# required by gnome-base/gnome-control-center-3.18.2::gentoo[cups]
+# required by gnome-base/gnome-shell-3.18.4-r1::gentoo
+# required by @selected
+# required by @world (argument)
+>=media-libs/mesa-11.1.2-r1 abi_x86_32
+# required by net-dns/avahi-0.6.32::gentoo[gdbm]
+# required by net-print/cups-2.1.3-r1::gentoo[zeroconf]
+# required by x11-libs/gtk+-2.24.29::gentoo[cups]
+>=sys-libs/gdbm-1.11 abi_x86_32
+# required by media-libs/mesa-11.1.2-r1::gentoo[dri3]
+# required by x11-libs/cairo-1.14.6::gentoo[opengl]
+# required by x11-libs/pango-1.38.1::gentoo
+# required by x11-libs/gtk+-2.24.29::gentoo
+# required by net-dns/avahi-0.6.32::gentoo[gtk]
+# required by net-print/cups-2.1.3-r1::gentoo[zeroconf]
+# required by gnome-base/gnome-control-center-3.18.2::gentoo[cups]
+# required by gnome-base/gnome-shell-3.18.4-r1::gentoo
+# required by @selected
+# required by @world (argument)
+>=x11-proto/dri3proto-1.0 abi_x86_32
+# required by media-libs/mesa-11.1.2-r1::gentoo[llvm,-opencl]
+# required by x11-libs/cairo-1.14.6::gentoo[opengl]
+# required by x11-libs/pango-1.38.1::gentoo
+# required by x11-libs/gtk+-2.24.29::gentoo
+# required by net-dns/avahi-0.6.32::gentoo[gtk]
+# required by net-print/cups-2.1.3-r1::gentoo[zeroconf]
+# required by gnome-base/gnome-control-center-3.18.2::gentoo[cups]
+# required by gnome-base/gnome-shell-3.18.4-r1::gentoo
+# required by @selected
+# required by @world (argument)
+>=sys-devel/llvm-3.7.1 abi_x86_32
+# required by x11-libs/libdrm-2.4.67::gentoo[video_cards_intel]
+# required by media-libs/mesa-11.1.2-r1::gentoo
+# required by x11-libs/cairo-1.14.6::gentoo[opengl]
+# required by x11-libs/pango-1.38.1::gentoo
+# required by x11-libs/gtk+-2.24.29::gentoo
+# required by net-dns/avahi-0.6.32::gentoo[gtk]
+# required by net-print/cups-2.1.3-r1::gentoo[zeroconf]
+# required by gnome-base/gnome-control-center-3.18.2::gentoo[cups]
+# required by gnome-base/gnome-shell-3.18.4-r1::gentoo
+# required by @selected
+# required by @world (argument)
+>=x11-libs/libpciaccess-0.13.4 abi_x86_32
+# required by x11-libs/pango-1.38.1::gentoo
+# required by x11-libs/gtk+-2.24.29::gentoo
+# required by net-dns/avahi-0.6.32::gentoo[gtk]
+# required by net-print/cups-2.1.3-r1::gentoo[zeroconf]
+# required by gnome-base/gnome-control-center-3.18.2::gentoo[cups]
+# required by gnome-base/gnome-shell-3.18.4-r1::gentoo
+# required by @selected
+# required by @world (argument)
+>=media-libs/harfbuzz-1.2.3 abi_x86_32
+# required by x11-libs/gtk+-2.24.29::gentoo
+# required by net-dns/avahi-0.6.32::gentoo[gtk]
+# required by net-print/cups-2.1.3-r1::gentoo[zeroconf]
+# required by gnome-base/gnome-control-center-3.18.2::gentoo[cups]
+# required by gnome-base/gnome-shell-3.18.4-r1::gentoo
+# required by @selected
+# required by @world (argument)
+>=x11-libs/libXdamage-1.1.4-r1 abi_x86_32
+# required by dev-texlive/texlive-xetex-2015::gentoo
+# required by dev-texlive/texlive-luatex-2015::gentoo
+# required by app-text/texlive-2015::gentoo[luatex]
+# required by @selected
+# required by @world (argument)
+>=app-text/texlive-core-2015 xetex
+# required by app-emulation/libvirt-1.3.2-r1::gentoo[virt-network]
+# required by libvirt (argument)
+>=net-dns/dnsmasq-2.75 script
+# required by sys-apps/systemd-229::gentoo
+# required by virtual/libudev-215-r1::gentoo
+# required by sys-apps/util-linux-2.27.1::gentoo[udev]
+# required by app-text/xmlto-0.0.28-r1::gentoo
+# required by x11-misc/xdg-utils-1.1.1::gentoo
+# required by net-print/cups-2.1.3-r1::gentoo[X]
+# required by x11-libs/gtk+-3.18.8::gentoo[cups]
+# required by app-text/ghostscript-gpl-9.15-r1::gentoo[gtk]
+# required by net-print/cups-filters-1.8.2::gentoo[postscript]
+>=sys-apps/dbus-1.10.8 systemd
+# required by gnome-base/gnome-shell-3.18.4::gentoo
+# required by virtual/notification-daemon-0::gentoo[gnome]
+# required by x11-libs/libnotify-0.7.6-r3::gentoo
+# required by net-wireless/gnome-bluetooth-3.18.2::gentoo
+# required by gnome-extra/nm-applet-1.0.10::gentoo[bluetooth]
+>=gnome-base/gnome-control-center-3.18.2 networkmanager
