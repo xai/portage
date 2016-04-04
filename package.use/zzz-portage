@@ -821,3 +821,6 @@
 # required by net-wireless/gnome-bluetooth-3.18.2::gentoo
 # required by gnome-extra/nm-applet-1.0.10::gentoo[bluetooth]
 >=gnome-base/gnome-control-center-3.18.2 networkmanager
+# required by x11-misc/synergy-1.6.3::gentoo[qt4]
+# required by synergy (argument)
+>=net-dns/avahi-0.6.32 mdnsresponder-compat
