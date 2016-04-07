@@ -1,0 +1,31 @@
+# required by app-emulation/wine-1.9.5::gentoo[ldap]
+# required by wine (argument)
+>=net-nds/openldap-2.4.44 abi_x86_32
+# required by app-emulation/wine-1.9.5::gentoo[mp3]
+# required by wine (argument)
+>=media-sound/mpg123-1.23.2 abi_x86_32
+# required by x11-libs/libXcomposite-0.4.4-r1::gentoo
+# required by app-emulation/wine-1.9.5::gentoo[xcomposite]
+# required by wine (argument)
+>=x11-proto/compositeproto-0.4.2-r1 abi_x86_32
+# required by virtual/glu-9.0-r1::gentoo
+# required by app-emulation/wine-1.9.5::gentoo[opengl]
+# required by wine (argument)
+>=media-libs/glu-9.0.0-r1 abi_x86_32
+# required by app-emulation/wine-1.9.5::gentoo[xcomposite]
+# required by wine (argument)
+>=x11-libs/libXcomposite-0.4.4-r1 abi_x86_32
+# required by media-libs/glu-9.0.0-r1::gentoo
+# required by virtual/glu-9.0-r1::gentoo
+# required by app-emulation/wine-1.9.5::gentoo[opengl]
+# required by wine (argument)
+>=virtual/opengl-7.0-r1 abi_x86_32
+# required by app-emulation/wine-1.9.5::gentoo[xml]
+# required by wine (argument)
+>=dev-libs/libxslt-1.1.28-r5 abi_x86_32
+# required by app-emulation/wine-1.9.5::gentoo[nls]
+# required by wine (argument)
+>=sys-devel/gettext-0.19.7 abi_x86_32
+# required by app-emulation/wine-1.9.5::gentoo[opengl]
+# required by wine (argument)
+>=virtual/glu-9.0-r1 abi_x86_32
