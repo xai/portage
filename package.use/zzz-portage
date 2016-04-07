@@ -852,3 +852,6 @@
 # required by @selected
 # required by @world (argument)
 >=dev-vcs/subversion-1.9.3 -dso perl
+# required by dev-lang/R-3.2.4::gentoo
+# required by dev-lang/R (argument)
+>=sys-libs/zlib-1.2.8-r1 minizip

@@ -15,6 +15,7 @@ app-shells/bash-completion
 app-text/acroread
 app-text/texlive
 dev-java/oracle-jdk-bin
+dev-lang/R
 dev-libs/cyrus-sasl
 dev-perl/WWW-Dict-Leo-Org
 dev-python/pip
