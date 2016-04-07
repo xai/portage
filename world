@@ -20,6 +20,7 @@ app-text/qpdfview
 app-text/texlive
 dev-java/ant
 dev-java/oracle-jdk-bin
+dev-lang/R
 dev-libs/cyrus-sasl
 dev-libs/libxml2
 dev-libs/libxslt
@@ -51,6 +52,7 @@ media-sound/rhythmbox
 media-video/totem
 media-video/vlc
 net-analyzer/nmap
+net-dns/bind-tools
 net-firewall/ebtables
 net-fs/nfs-utils
 net-im/pidgin
