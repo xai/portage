@@ -824,3 +824,27 @@
 # required by x11-misc/synergy-1.6.3::gentoo[qt4]
 # required by synergy (argument)
 >=net-dns/avahi-0.6.32 mdnsresponder-compat
+# required by app-text/acroread-9.5.5-r3::gentoo
+# required by acroread (argument)
+>=dev-libs/openssl-0.9.8z_p8:0.9.8 abi_x86_32
+# required by virtual/glu-9.0-r1::gentoo
+# required by app-text/acroread-9.5.5-r3::gentoo
+# required by acroread (argument)
+>=media-libs/glu-9.0.0-r1 abi_x86_32
+# required by app-text/acroread-9.5.5-r3::gentoo
+# required by acroread (argument)
+>=net-dns/libidn-1.32-r1 abi_x86_32
+# required by app-text/acroread-9.5.5-r3::gentoo
+# required by acroread (argument)
+>=virtual/glu-9.0-r1 abi_x86_32
+# required by app-text/acroread-9.5.5-r3::gentoo[ldap]
+# required by acroread (argument)
+>=net-nds/openldap-2.4.44 abi_x86_32
+# required by media-libs/glu-9.0.0-r1::gentoo
+# required by virtual/glu-9.0-r1::gentoo
+# required by app-text/acroread-9.5.5-r3::gentoo
+# required by acroread (argument)
+>=virtual/opengl-7.0-r1 abi_x86_32
+# required by app-text/acroread-9.5.5-r3::gentoo
+# required by acroread (argument)
+>=x11-libs/pangox-compat-0.0.2-r1 abi_x86_32
