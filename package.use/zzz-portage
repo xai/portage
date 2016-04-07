@@ -848,3 +848,7 @@
 # required by app-text/acroread-9.5.5-r3::gentoo
 # required by acroread (argument)
 >=x11-libs/pangox-compat-0.0.2-r1 abi_x86_32
+# required by dev-vcs/git-2.8.1::gentoo[subversion,perl]
+# required by @selected
+# required by @world (argument)
+>=dev-vcs/subversion-1.9.3 -dso perl
