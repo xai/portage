@@ -72,6 +72,7 @@ sys-process/htop
 www-client/firefox
 www-client/google-chrome
 www-client/lynx
+www-client/w3m
 x11-apps/xev
 x11-misc/synergy
 x11-misc/xscreensaver
