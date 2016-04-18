@@ -8,6 +8,7 @@ app-editors/vim
 app-emulation/virt-manager
 app-emulation/virtualbox
 app-emulation/virtualbox-additions
+app-misc/boxes
 app-misc/mc
 app-misc/tmux
 app-office/libreoffice
