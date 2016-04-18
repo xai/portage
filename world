@@ -60,7 +60,7 @@ net-misc/networkmanager-openvpn
 sys-apps/etckeeper
 sys-apps/lm_sensors
 sys-auth/google-authenticator
-sys-auth/nss_ldap
+sys-auth/nss-pam-ldapd
 sys-boot/grub
 sys-boot/os-prober
 sys-fs/btrfs-progs
