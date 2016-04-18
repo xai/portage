@@ -35,12 +35,15 @@ dev-vcs/git-cola
 dev-vcs/mercurial
 games-strategy/freeciv
 gnome-base/gnome-shell
+gnome-extra/gnome-calculator
 gnome-extra/gnome-calendar
 gnome-extra/gnome-clocks
 gnome-extra/gnome-contacts
 gnome-extra/gnome-tweak-tool
 mail-client/claws-mail
+mail-client/evolution
 mail-client/geary
+mail-client/mutt
 mail-client/thunderbird
 media-fonts/corefonts
 media-fonts/fantasque-sans-mono
@@ -49,6 +52,7 @@ media-gfx/feh
 media-gfx/gimp
 media-sound/clementine
 media-sound/gnome-music
+media-sound/pavucontrol
 media-sound/rhythmbox
 media-video/totem
 media-video/vlc
