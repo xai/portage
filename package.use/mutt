@@ -1,1 +1,1 @@
-mail-client/mutt sidebar smtp gpg
+mail-client/mutt gpg smime imap smtp ssl sasl sidebar
