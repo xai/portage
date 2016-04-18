@@ -97,6 +97,7 @@ www-plugins/adobe-flash
 x11-apps/intel-gpu-tools
 x11-apps/xrandr
 x11-misc/pcmanfm
+x11-misc/synergy
 x11-misc/xscreensaver
 x11-terms/gnome-terminal
 x11-terms/rxvt-unicode

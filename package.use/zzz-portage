@@ -5,3 +5,6 @@
 # required by @selected
 # required by @world (argument)
 >=app-text/texlive-core-2015 xetex
+# required by x11-misc/synergy-1.7.6::gentoo[qt4]
+# required by synergy (argument)
+>=net-dns/avahi-0.6.32 mdnsresponder-compat
