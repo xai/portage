@@ -41,6 +41,7 @@ media-fonts/fantasque-sans-mono
 media-fonts/source-pro
 media-fonts/terminus-font
 media-gfx/eog
+media-gfx/graphviz
 media-sound/pavucontrol
 net-analyzer/iftop
 net-analyzer/nmap
