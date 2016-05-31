@@ -1,1 +1,9 @@
-x11-misc/synergy -~amd64
+# required by sys-fs/zfs-kmod-9999::gentoo
+# required by sys-fs/zfs-9999::gentoo
+# required by =sys-fs/zfs-9999 (argument)
+=sys-kernel/spl-9999 **
+# required by =sys-fs/zfs-9999 (argument)
+=sys-fs/zfs-9999 **
+# required by sys-fs/zfs-9999::gentoo
+# required by =sys-fs/zfs-9999 (argument)
+=sys-fs/zfs-kmod-9999 **
