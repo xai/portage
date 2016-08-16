@@ -1,2 +1,10 @@
 # required by dracut (argument)
 =sys-kernel/dracut-044 ~amd64
+# iscsi
+=sys-block/iscsitarget-9999 **
+# zfs
+=sys-kernel/spl-9999 **
+=sys-fs/zfs-kmod-9999 **
+=sys-fs/zfs-9999 **
+# skypeweb
+=x11-plugins/pidgin-skypeweb-9999 **
