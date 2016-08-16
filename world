@@ -42,6 +42,7 @@ dev-lang/php
 dev-libs/cyrus-sasl
 dev-perl/Time-ParseDate
 dev-perl/WWW-Dict-Leo-Org
+dev-python/flake8
 dev-python/pip
 dev-python/virtualenv
 dev-python/vobject
