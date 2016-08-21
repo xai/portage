@@ -1,0 +1,18 @@
+net-misc/owncloud-client qt5 -qt4
+# required by dev-qt/qtwebkit-5.5.1-r1::gentoo
+# required by net-misc/owncloud-client-2.2.2::gentoo[qt5]
+# required by net-misc/owncloud-client (argument)
+>=dev-qt/qtcore-5.5.1-r1 icu
+# required by net-misc/owncloud-client-2.2.2::gentoo[qt5]
+# required by net-misc/owncloud-client (argument)
+>=dev-libs/qtkeychain-0.6.2 qt5
+# required by net-misc/owncloud-client-2.2.2::gentoo[qt5]
+# required by net-misc/owncloud-client (argument)
+>=dev-qt/qtwebkit-5.5.1-r1 printsupport
+# required by dev-qt/qtcore-5.5.1-r1::gentoo
+# required by dev-qt/qtgui-5.5.1-r1::gentoo
+# required by dev-qt/qtopengl-5.5.1::gentoo
+# required by dev-qt/qtwebkit-5.5.1-r1::gentoo[opengl]
+# required by net-misc/owncloud-client-2.2.2::gentoo[qt5]
+# required by net-misc/owncloud-client (argument)
+>=dev-libs/libpcre-8.38-r1 pcre16

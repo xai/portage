@@ -1,0 +1,11 @@
+# required by gnome-base/gnome-shell-3.18.5::gentoo
+# required by x11-terms/gnome-terminal-3.18.3::gentoo[gnome-shell]
+# required by gnome-base/gnome-core-apps-3.18.0::gentoo
+# required by gnome-base/gnome-3.18.0::gentoo
+# required by gnome (argument)
+>=gnome-base/gnome-control-center-3.18.2 networkmanager
+# required by media-gfx/gnome-photos-3.18.3-r1::gentoo
+# required by gnome-base/gnome-extra-apps-3.18.0-r1::gentoo[tracker]
+# required by gnome-base/gnome-3.18.0::gentoo[extras]
+# required by gnome (argument)
+>=media-plugins/grilo-plugins-0.2.17 upnp-av

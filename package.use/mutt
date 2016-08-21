@@ -1,0 +1,2 @@
+mail-client/mutt gpg smtp sasl sidebar notmuch
+net-mail/notmuch mutt

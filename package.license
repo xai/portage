@@ -1,0 +1,4 @@
+# required by oracle-jdk-bin (argument)
+>=dev-java/oracle-jdk-bin-1.8.0.92 Oracle-BCLA-JavaSE
+# required by skype (argument)
+>=net-im/skype-4.3.0.37-r6 skype-4.0.0.7-copyright

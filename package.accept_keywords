@@ -1,0 +1,11 @@
+# required by dracut (argument)
+=sys-kernel/dracut-044 ~amd64
+mail-client/mutt ~amd64
+# required by fantasque-sans-mono (argument)
+=media-fonts/fantasque-sans-mono-2014.07 ~amd64
+# required by net-misc/owncloud-client (argument)
+=net-misc/owncloud-client-2.2.2 ~amd64
+# required by skype (argument)
+=net-im/skype-4.3.0.37-r6 ~amd64
+# required by pidgin-skypeweb (argument)
+=x11-plugins/pidgin-skypeweb-1.1 ~amd64
